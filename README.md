@@ -1,0 +1,1 @@
+This is the repository for my Introduction to Machine Learning: Supervised Learning course. There are two main files, the write-up (PDF Document), and the Jupyter Notebook file containing the raw code. For detailed analysis and expanations of each code block, please see the written report. 
